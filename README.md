@@ -20,7 +20,7 @@ Arduino Pro-Micro type micro-controller basic code.
 
 # Throttle Micro-controller
 
-# Resurecting Old Stick
+# Resurecting Old Sticks
 
 Old stick is a Saitek ST220, I had to replace the internal board with an Arduino Micro Pro micro controller in order to make the stick work on modern PC's
 After I removed the old board I looked at the wiring to figure out which wires were ground, 5v, and signal.  I pinned the wire's using a kit I cannot rememeber
